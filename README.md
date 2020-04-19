@@ -11,12 +11,14 @@ An A/B test is important to assure if a new functionality has any practical sign
 
 ### Getting Started
 
-To run this project you should have a local server running with Jupyter Notebook installed (you can use [Anaconda](https://www.anaconda.com/distribution/)
+To run this project you should have a local server running with Jupyter Notebook installed (you can use [Anaconda](https://www.anaconda.com/distribution/))
 
 ### Built With 
 
 [Python Pandas](https://pandas.pydata.org/) - To manage csv files 
+
 [Numpy](https://numpy.org/)
+
 [Matplotlib](https://matplotlib.org/)
 
 ## Authors
